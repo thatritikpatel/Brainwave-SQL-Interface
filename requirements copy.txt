@@ -1,0 +1,8 @@
+db-sqlite3
+streamlit
+langchain
+sqlalchemy
+langchain_groq
+langchain_community
+mysql-connector-python
+SQLAlchemy
